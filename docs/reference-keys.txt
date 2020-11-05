@@ -17,7 +17,7 @@ a-végpont-fogalma-elsődleges-és-másodlagos-végpontok
 kemény-és-helyettesítő-végpontok
 több-végpont-használata-többszörös-összehasonlítások-helyzete
 néhány-további-fejezet-a-gyógyszervizsgálatok-témájából
+alcsoport-analízis
 interim-elemzések-korai-leállítás
 a-gyógyszervizsgálatok-fázisai
-alcsoport-analízis
 a-bizonyítékok-összessége-szemlélet
