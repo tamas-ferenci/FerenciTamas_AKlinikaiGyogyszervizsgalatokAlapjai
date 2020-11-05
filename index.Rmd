@@ -1,0 +1,33 @@
+--- 
+title: "A klinikai gyógyszervizsgálatok alapjai"
+short-title: "A klinikai gyógyszervizsgálatok alapjai"
+toc-title: "Tartalom"
+author: Ferenci Tamás, tamas.ferenci@medstat.hu
+date: '`r format(Sys.time(), "%Y\\. %B %e\\.")`'
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai.bib
+link-citations: yes
+description: "Nem szakembereknek szóló, minden orvosi és statisztikai előismeret nélkül is olvasható összefoglaló, amely bemutatja a klinikai gyógyszervizsgálatok értelmét, logikáját, megtervezésük és kiértékelésük alapjait."
+lang: hu-HU
+header-includes:
+- \usepackage{csquotes}
+github-repo: tamas-ferenci/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai
+url: https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/
+---
+
+# Előszó {-}
+
+A klinikai gyógyszervizsgálatok gyakran képezik közbeszéd tárgyát. Amikor kipróbálnak egy teljesen új szert, amikor megjelenik egy új vizsgálati eredmény, sokszor kerülnek gyógyszervizsgálati eredmények a címlapokra. Sajnos nem ritkán alanyai félreértéseknek, rosszabb esetben szándékos félrevezetéseknek is. Gyógyszergyárak anyagilag érdekeltek abban, hogy feltupírozzák az eredményeket, bizonyos csoportok inkább ideológiai semmint tudományos alapon utasítanak el vagy épp magasztalnak fel készítményeket, de a hamis állítások többsége egyszerűen abból fakad, hogy a megszólalók, véleményt nyilvánítók egy része maga sem ismeri alaposan a gyógyszervizsgálatokat. A helyzetet sajnos sokszor a szakemberek is rontják, amikor misztifikálják a területet, és megszólalásaikban csak úgy repkednek a szakkifejezések négyes fázistól a randomizált placebo-kontrolláltig.
+
+Jelen írásnak nem célja, hogy az ilyen félreértéseket, félrevezetéseket célirányosan tárgyalja. Nem mintha ez nem lenne fontos, ellenkezőleg, nagyon is az, de előtte még van egy lépés: az alapgondolatok, az alapfogalmak bemutatása. A kettő ráadásul nagyon szorosan összefügg: annál kevésbé fogékony valaki a valótlan információkra, minél jobban ismeri a területet magát.
+
+Sajnos azonban magyar nyelven nem áll rendelkezésre olyan, az alapkoncepciókat bemutató anyag, ami nem szakemberekhez szól, de egyidejűleg kellően részletes is. Jelen összefoglaló célja e hiány pótlása.
+
+Nem szeretnék zsákbamacskát árulni: ez nem egy 5 perces olvasmány. Nem tudom megígérni, hogy nem igényel energiát végigolvasni, de meg tudom ígérni, hogy ezen kívül mást nem igényel: nem kell hozzá orvosi ismeret, nem kell hozzá statisztikatudás, nem lesznek képletek és szakkifejezések.
+
+Reménykedem abban, hogy emiatt hasznos olvasmány lesz mindazoknak, akik szeretnék megérteni, hogy a gyógyszervizsgálati eredmények mit jelentenek, és hogyan kell őket értelmezni. Legyenek érdeklődő laikusok, akik szeretnék megérteni, hogy mit olvastak az újságban, nem ezzel a területtel foglalkozó egészségügyisek, akiknek már homályosak az idevágó iskolai emlékei, vagy éppen újságírók, akik szeretnének hitelesen beszámolni az olvasóknak. Ezek az eredmények sokszor nagyon is közvetlen hatással vannak életünkre, egészségünkre, így rendkívül fontos, hogy minél többen értsék, hogy mit jelentenek a számok, fogalmak, következtetések.
+
+Minden észrevételt, javaslatot, kritikát örömmel várok a [tamas.ferenci@medstat.hu](tamas.ferenci@medstat.hu) email-címen!
+
+A kézirathoz fűzött észrevételekért, gondos átolvasásért és javításokért szeretném köszönetemet kifejezni (alfabetikus sorrendben) Gombos Tímeának és Singer Júliának. Természetesen minden megmaradt hiba engem terhel.
