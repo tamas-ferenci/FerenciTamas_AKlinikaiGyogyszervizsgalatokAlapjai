@@ -1,4 +1,5 @@
-# Néhány további fejezet a gyógyszervizsgálatok témájából
+# Néhány további témakör a gyógyszervizsgálatok témájából
+\chaptermark{Néhány további témakör}
 
 ## Alcsoport-analízis
 

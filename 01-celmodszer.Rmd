@@ -1,4 +1,5 @@
 # A klinikai gyógyszervizsgálatok célja és módszerei
+\chaptermark{Célok és módszerek}
 
 Arra a kérdésre, hogy egy gyógyszer "jó"-e, lehetetlen egyszerűen válaszolni, hiszen ez egy többdimenziós kérdés: számít, hogy biztonságos-e, számít, hogy hatásos-e, számít, hogy megfelelő, állandó minőségben gyártható-e, manapság egyre több esetben számít az ára is. Ezek a kérdések ráadásul sok esetben nem függetlenek sem egymástól, sem a kezelni kívánt betegség jellegétől: egy sok mellékhatást okozó gyógyszer is lehet jó, ha egy gyógyszer nélkül nagyon rossz kilátású betegségben sokat segít, egy kevés mellékhatást okozó gyógyszer is lehet rossz, ha egy gyógyszer nélkül sem túl súlyos betegségen csak kicsit javít. A gyógyszer adására vonatkozó döntés mindig **kockázat-haszon mérlegelés** eredménye; fontos feladat azonban, hogy ehhez a mérlegeléshez a valóságnak megfelelő kiindulási információink legyenek.
 
@@ -23,6 +24,7 @@ Nézhetünk akár 1000 kezelt beteget is, ha ők fiatalabbak -- nem feltétlenü
 Az ilyen változókat, amik ezt a galibát okozzák, tehát amelyekre egyszerre igaz, hogy eltérnek a vizsgált csoportok között *és* hatnak a kimenetre (ha bármelyik nem áll fenn, akkor nincsen baj, gondoljuk végig), szokás confoundernek, vagy magyarul zavaró változónak nevezni.
 
 ## A randomizáció szerepe, megfigyeléses és kísérletes vizsgálatok
+\chaptermark{Megfigyelés és kísérlet}
 
 Mit tudunk ez ellen tenni? Olyan confoundereknél, amelyekről van információnk (ismerjük az értéküket az egyes alanyokra), rendelkezésre állnak statisztikai megoldások, amikkel segíthetünk a helyzeten. Megtehetjük például, hogy külön vizsgáljuk a gyógyszer hatását csak a fiatalokban és csak az idősekben (rétegzett elemzés). Erre vannak kifinomultabb módszerek is, de bármilyen kifinomultan járunk is el, biztosan nem kezeljük jól a helyzetet abban az esetben, ha eszünkbe sem jut valamelyik változóról, hogy az confounder lehet.
 

@@ -1,4 +1,5 @@
 # A végpontok megválasztásának és mérésének kérdései
+\chaptermark{A végpontok megválasztása és mérése}
 
 ## A végpont fogalma, elsődleges és másodlagos végpontok
 
@@ -13,6 +14,7 @@ Az előbbi gondolatnak tulajdonképpen még messzebbre vezető következményei 
 Mit csináljunk tehát a vérnyomáscsökkentő esetében? Azt fogjuk lemérni, hogy a vérnyomást csökkenti-e! Hiszen ez mindenkinél lemérhető, és rövid időn belül lemérhető (ráadásul könnyen, veszélytelenül és olcsón). De bármennyire is kézenfekvőnek tűnik ez, vegyük észre, hogy itt van egy háttérfeltételezés: az, hogy a vérnyomás csökkentése *tényleg* maga után vonja a kemény végpontok, például az infarktus vagy a halálozás csökkenését is! Ezt muszáj biztosan tudnunk, különben az egész vizsgálattal nem megyünk semmire. Az ilyen végpontokat szokás **helyettesítő végpontnak** nevezni. A helyettesítő végpontok sok esetben hasznosak, sőt, néha ezek teszik egyáltalán lehetővé kutatások elvégzését, de másrészről a használatuk "veszélyes üzem", mert az előbbi feltétel teljesülését alaposan meg kell vizsgálni. Ezzel kapcsolatban itt csak arra hívjuk fel a figyelmet, hogy *önmagában* az, hogy valami együttmozog a végponttal (a magasabb vérnyomású betegek körében gyakoribb az infarktus) még *nem* bizonyítja, hogy jó helyettesítő végpont! Az, hogy a helyettesítő végpont javítása maga után vonja a kemény végpont javulását is, egy sokkal erősebb feltétel mint az, hogy a kettő együtt jár; ha erről megfeledkeznénk, akkor egy fogfehérítő szerről kimutathatnánk, hogy hatásos a tüdőrák ellen (gondoljuk végig!).
 
 ## Több végpont használata, többszörös összehasonlítások helyzete
+\chaptermark{Többszörös összehasonlítások}
 
 A statisztikai szignifikanciánál láttuk, hogy a szokásos 5%-os szignifikanciaszint használata azt jelenti, hogy ha nincsen hatás, mi 5% valószínűséggel fogunk mégis, a véletlen ingadozás miatti pech miatt, tévesen hatást kimutatni. (És láttuk, hogy ezt a szintet csökkenteni sem feltétlenül érdemes, hiszen akkor meg a valódi hatások detektálását is megnehezítjük.) Ez teljesen rendben is van akkor, ha *egyféle* hatást vizsgálunk meg. De mi történik akkor, ha például kétféle végpontot vizsgálunk, mondjuk azt is megnézzük, hogy a gyógyszer az infarktus előfordulását csökkenti-e, és azt is, hogy a stroke előfordulását csökkenti-e?
 
