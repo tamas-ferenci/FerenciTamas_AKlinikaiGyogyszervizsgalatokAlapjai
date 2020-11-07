@@ -15,8 +15,8 @@ párhuzamos-és-keresztezett-kontroll
 a-végpontok-megválasztásának-és-mérésének-kérdései
 a-végpont-fogalma-elsődleges-és-másodlagos-végpontok
 kemény-és-helyettesítő-végpontok
-több-végpont-használata-többszörös-összehasonlítások-helyzete
 néhány-további-témakör-a-gyógyszervizsgálatok-témájából
+több-végpont-használata-többszörös-összehasonlítások-helyzete
 alcsoport-analízis
 interim-elemzések-korai-leállítás
 a-gyógyszervizsgálatok-fázisai
