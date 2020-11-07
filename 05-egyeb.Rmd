@@ -10,7 +10,7 @@ A statisztikai szignifikanciánál láttuk, hogy a szokásos 5%-os szignifikanci
 
 Ez egy példa a **többszörös összehasonlítások helyzetének** nevezett általános jelenségre, ami akkor lép fel, ha a fenti értelemben "vagylagosan" végzünk több vizsgálatot [@schulz2005a]. Az érzékeltetés kedvéért, a következő ábra mutatja pontosan kiszámolva^[Egyedül annyit kellett a számításhoz feltételeznünk, hogy az egyes összehasonlítások egymástól függetlenek.] annak valószínűségét, hogy valahol (legalább egy összehasonlításban) találunk hatást, ha valójában sehol nincs hatás, annak függvényében, hogy hány összehasonlítást végeztünk:
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, fig.align = "center"}
 ggplot2::ggplot(data.frame(k = 1:30, alpha = (1-(1-0.05)^(1:30))*100), ggplot2::aes(x = k, y = alpha)) +
   ggplot2::geom_line() + ggplot2::geom_point() + ggplot2::geom_hline(yintercept = 5, col = "red") +
   ggplot2::labs(x = "Összehasonlítások száma", y = "Fals hatás kimutatásának valószínűsége [%]")
