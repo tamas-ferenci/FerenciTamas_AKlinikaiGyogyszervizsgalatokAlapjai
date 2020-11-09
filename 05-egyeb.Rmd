@@ -12,7 +12,7 @@ Ez egy példa a **többszörös összehasonlítások helyzetének** nevezett ál
 
 ```{r, echo = FALSE, fig.align = "center"}
 ggplot2::ggplot(data.frame(k = 1:30, alpha = (1-(1-0.05)^(1:30))*100), ggplot2::aes(x = k, y = alpha)) +
-  ggplot2::geom_line() + ggplot2::geom_point() + ggplot2::geom_hline(yintercept = 5, col = "red") +
+  ggplot2::geom_point() + ggplot2::geom_point() + ggplot2::geom_hline(yintercept = 5, col = "red") +
   ggplot2::labs(x = "Összehasonlítások száma", y = "Fals hatás kimutatásának valószínűsége [%]")
 ```
 
