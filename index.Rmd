@@ -22,7 +22,7 @@ A klinikai gyógyszervizsgálatok gyakran képezik közbeszéd tárgyát. Amikor
 
 Jelen írásnak nem célja, hogy az ilyen félreértéseket, félrevezetéseket célirányosan tárgyalja. Nem mintha ez nem lenne fontos, ellenkezőleg, nagyon is az, de előtte még van egy lépés: az alapgondolatok, az alapfogalmak bemutatása. A kettő ráadásul nagyon szorosan összefügg: annál kevésbé fogékony valaki a valótlan információkra, minél jobban ismeri a területet magát.
 
-Sajnos azonban magyar nyelven nem áll rendelkezésre olyan, az alapkoncepciókat bemutató anyag, ami nem szakemberekhez szól, de egyidejűleg kellően részletes is. Jelen összefoglaló célja e hiány pótlása.
+Sajnos azonban magyar nyelven nem áll rendelkezésre olyan, az alapkoncepciókat bemutató anyag, ami nem szakemberekhez szól, de egyidejűleg kellően részletes is. Jelen összefoglaló célja e hiány pótlása. Fontos rögzíteni, hogy a gyógyszervizsgálatokhoz az itt tárgyalt területeken túl még rengeteg további tudományág kapcsolódik [@lakner2009; @gachalyi2003], biokémiától gyógyszertanon át akár egészen a közgazdaságig. Jelen összefoglalóban igyekeztem azokat a területeket kihagyni, melyek a gyógyszerfejlesztésben résztvevők számára fontosak, és azokra a kérdésekre fókuszálni, melyek a gyógyszervizsgálatok eredményeit olvasók számára lényegesek.
 
 Nem szeretnék zsákbamacskát árulni: ez nem egy 5 perces olvasmány. Nem tudom megígérni, hogy nem igényel energiát végigolvasni, de meg tudom ígérni, hogy ezen kívül mást nem igényel: nem kell hozzá orvosi ismeret, nem kell hozzá statisztikatudás, nem lesznek képletek és szakkifejezések.
 
